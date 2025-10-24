@@ -1,0 +1,16 @@
+R E C O R D S
+
+nico, tus dados son de    7 caras y los numeros que han salido son:    1 y    5. has acertado 1 
+curro, tus dados son de    7 caras y los numeros que han salido son:    4 y    1. has acertado 1 
+curro, tus dados son de   15 caras y los numeros que han salido son:    9 y    6. has acertado 0 
+curro, tus dados son de   89 caras y los numeros que han salido son:   28 y   47. has acertado 0
+iago, tus dados son de   65 caras y los numeros que han salido son:    2 y   64. has acertado 0 
+c, tus dados son de    5 caras y los numeros que han salido son:    5 y    1. has acertado 0 
+c, tus dados son de    5 caras y los numeros que han salido son:    1 y    4. has acertado 1 
+java, tus dados son de   10 caras y los numeros que han salido son:   10 y    8. has acertado 0 
+vazman, tus dados son de    6 caras y los numeros que han salido son:    1 y    6. has acertado 1 
+pablovaz, tus dados son de    6 caras y los numeros que han salido son:    6 y    2. has acertado 1 
+c, tus dados son de    4 caras y los numeros que han salido son:    2 y    1. has acertado 2 
+c, tus dados son de    5 caras y los numeros que han salido son:    5 y    2. has acertado 1 
+c, tus dados son de    5 caras y los numeros que han salido son:    3 y    2. has acertado 1 
+c, tus dados son de    5 caras y los numeros que han salido son:    1 y    3. has acertado 2 

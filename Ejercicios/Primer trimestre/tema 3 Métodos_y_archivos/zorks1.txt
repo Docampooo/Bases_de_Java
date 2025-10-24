@@ -1,0 +1,10 @@
+-SUR DE LA CASA-
+--------------------------------------------------------------
+Avanzas por un sospechoso sendero que te lleva hasta la entrada de un bosque oscuro, una criatura misteriosa sale de un seto y se acerca a ti, sin mediar palabra, te da a elegir entre una de las 2 cajas que cargaba en su mano, una que desprende un hedor extrano y otra que esta en muy malas condiciones.
+Elige con que caja te quedas, humano. 
+
+Al abrise la caja una extraña figura de color claro asoma entre un monton de hierbas muertas que la rodean, recoges el objeto y la extraña criatura desaparece entre la maleza.
+/* Obtienes un hueso *\
+
+La maltratada caja se abre y en el interior encuentras un tipo de seda que parece muy resistente
+/* Obtienes una cuerda *\

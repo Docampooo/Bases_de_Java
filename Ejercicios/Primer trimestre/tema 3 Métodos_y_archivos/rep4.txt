@@ -1,0 +1,2 @@
+numero entero:  5  	 00005 	 5 
+numero real:   3,000 
